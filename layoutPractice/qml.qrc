@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyShape.qml</file>
+        <file>InvisibleShape.qml</file>
+    </qresource>
+</RCC>
