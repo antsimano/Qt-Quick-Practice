@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Qtcreator_Faenza.svg.png</file>
+    </qresource>
+</RCC>
