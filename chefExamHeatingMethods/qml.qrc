@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.ui.qml</file>
+        <file>BlanchForm.ui.qml</file>
+        <file>PoachForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Boil.qml</file>
+        <file>BoilForm.ui.qml</file>
+        <file>Steam.qml</file>
+        <file>SteamForm.ui.qml</file>
+        <file>Fry.qml</file>
+        <file>FryForm.ui.qml</file>
+        <file>Sauter.qml</file>
+        <file>SauterForm.ui.qml</file>
+        <file>Grill.qml</file>
+        <file>GrillForm.ui.qml</file>
+        <file>Gratinate.qml</file>
+        <file>GratinateForm.ui.qml</file>
+        <file>Bake.qml</file>
+        <file>BakeForm.ui.qml</file>
+        <file>Roast.qml</file>
+        <file>RoastForm.ui.qml</file>
+        <file>RotirAuFour.qml</file>
+        <file>RotirAuFourForm.ui.qml</file>
+        <file>RoastOnSpin.qml</file>
+        <file>RoastOnSpinForm.ui.qml</file>
+        <file>Braise.qml</file>
+        <file>BraiseForm.ui.qml</file>
+        <file>Stew.qml</file>
+        <file>StewForm.ui.qml</file>
+    </qresource>
+</RCC>
