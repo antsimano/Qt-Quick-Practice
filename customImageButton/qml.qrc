@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CoolButton.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/downArrow.svg</file>
+        <file>images/upArrow.svg</file>
+    </qresource>
+</RCC>
