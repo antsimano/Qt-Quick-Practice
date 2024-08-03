@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/flat">
+        <file>outlines/copy.svg</file>
+        <file>outlines/cut.svg</file>
+        <file>outlines/new.svg</file>
+        <file>outlines/open.svg</file>
+        <file>outlines/paste.svg</file>
+        <file>outlines/save.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImagePage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/brookForest.jpg</file>
+        <file>images/fantasyLandscape.jpg</file>
+        <file>images/nightForest.jpg</file>
+        <file>images/splashOfColors.jpg</file>
+        <file>images/umbrellaGirl.png</file>
+    </qresource>
+</RCC>
